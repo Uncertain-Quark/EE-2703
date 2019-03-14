@@ -3,4 +3,4 @@ This repo is composed of the assignments from the course EE2703 - Applied Progra
 
 Each Week Folder is composed of a PDF of the assignment and the corresponding Python Code for it. 
 The recommended Python Version is 3.5 or above. 
-The execustion of some of the Python scripts require Numpy and Scipy. 
+The execution of some of the Python scripts require Numpy and Scipy. 
